@@ -2,7 +2,6 @@
 
 % 载入插件
 LoadFTDIActiveX
-<<<<<<< HEAD
 % 登录
 FT_iFinDLogin(iFinDActive,'account','password') %change your account and password here.
 % 获取数据，信息自动保存在stRTData中
